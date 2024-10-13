@@ -1,3 +1,4 @@
 # ApnaCode
+
 This is for learning
-Author - Sushant Kumar Gaurav
+Author - Sushant Kumar Gaurav (skg)
